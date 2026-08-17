@@ -1,3 +1,3 @@
-# nemth_marcell
+# nemth-marcell
 
 hello
