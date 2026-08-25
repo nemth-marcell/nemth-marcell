@@ -1,4 +1,3 @@
 # nemth-marcell
 
-<img width="1372" height="480" alt="pontok-black" src="https://github.com/user-attachments/assets/0244cff2-e20d-4c51-9c96-ac17c502498d" />
-
+<img width="2058" height="720" alt="pontok-rmbg" src="https://github.com/user-attachments/assets/0b3d4df1-408a-4239-aa37-491bf1450f68" />
